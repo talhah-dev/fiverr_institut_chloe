@@ -33,6 +33,11 @@ footer.innerHTML = `
               09 54 73 52 97
             </a>
           </p>
+          <p>
+            <a href="mailto:hello@institutchloe.fr" class="font-semibold underline-offset-4 hover:underline">
+              hello@institutchloe.fr
+            </a>
+          </p>
         </div>
       </div>
 
